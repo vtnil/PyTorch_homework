@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+data
+decoder-toy.pkl
+encoder-toy.pkl
+neural translator.ipynb
